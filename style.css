@@ -3,8 +3,11 @@ main {
   padding: 5px;
 }
 
-.event-image{
-  width:80%;
+
+.event-image {
+  max-width: 100%; /* Make the image responsive to its container */
+  height: auto;
+  margin-bottom: 10px; /* Add some bottom margin for spacing */
 }
 
 .review {
