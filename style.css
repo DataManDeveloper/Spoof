@@ -3,6 +3,17 @@ main {
   padding: 5px;
 }
 
+.event-image{
+  width:20%;
+}
+
+.review {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
 /* Header banner styling using Bootstrap classes */
 header {
   background-color: #343a40; /* Bootstrap dark background color */
